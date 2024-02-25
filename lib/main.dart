@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'screens/screens.dart';
 
 void main() {
   runApp(const MyApp());
@@ -32,11 +33,15 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        backgroundColor: Theme.of(context).colorScheme.inversePrimary,
-        title: Text(widget.title),
-      ),
-    );
+    return MaterialApp(
+        debugShowCheckedModeBanner: false,
+        title: 'Owlee',
+        theme: ThemeData(primarySwatch: Colors.grey),
+        initialRoute: '/',
+        routes: {
+          HomeScreen.routeName: (context) => const HomeScreen(),
+          DiscoverScreen.routeName: (context) => const DiscoverScreen(),
+          ArticleScreen.routeName: (context) => const ArticleScreen(),
+        });
   }
 }

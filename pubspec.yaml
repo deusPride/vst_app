@@ -41,6 +41,8 @@ dependencies:
   url_launcher: ^6.2.4
   auto_route: ^7.8.4
   dio: ^5.4.0
+  flutter_chart: ^0.1.6
+  get: ^4.6.6
 
 dev_dependencies:
   flutter_test:
