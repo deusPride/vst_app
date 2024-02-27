@@ -1,0 +1,4360 @@
+{
+    "id": "enterprise\/univndere\/category\/7a35c025-07d0-4043-935e-77cddfc405ab",
+    "updated": 1708098539146,
+    "continuation": "18d44cc4b25:511011:caebd05b",
+    "items": [
+        {
+            "fingerprint": "fa1569e5",
+            "language": "en",
+            "id": "GfbTOICHH8Tc4RwmwpuDaLx0W6Uljk5MR9TH26jQNrQ=_18db29b4e8a:5fb67d:caebd05b",
+            "originId": "https:\/\/www.ecdc.europa.eu\/en\/publications-data\/communicable-disease-threats-report-11-17-february-2024-week-7",
+            "recrawled": 1708098914308,
+            "updateCount": 1,
+            "origin": {
+                "htmlUrl": "https:\/\/www.ecdc.europa.eu\/en",
+                "title": "COVID-19",
+                "streamId": "feed\/https:\/\/www.ecdc.europa.eu\/en\/taxonomy\/term\/2942\/feed"
+            },
+            "title": "Communicable disease threats report, 11-17 February 2024, week 7",
+            "author": "ECDC",
+            "crawled": 1708098539146,
+            "published": 1708098539146,
+            "alternate": [
+                {
+                    "type": "text\/html",
+                    "href": "https:\/\/www.ecdc.europa.eu\/en\/publications-data\/communicable-disease-threats-report-11-17-february-2024-week-7"
+                }
+            ],
+            "summary": {
+                "content": "This issue of the ECDC Communicable Disease Threats Report (CDTR) the period 11-17 February 2024, and includes updates on SARS-CoV-2 variant classification, diphtheria, chikungunya, dengue, influenza A(H5N1), a human case of co-infection with seasonal influenza A(H3N2) and avian influenza A(H10N5), Middle East respiratory syndrome coronavirus (MERS-CoV), and an overview of respiratory virus epidemiology in the EU\/EEA.",
+                "direction": "ltr"
+            },
+            "visual": {
+                "processor": "feedly-nikon-v3.1",
+                "contentType": "image\/png",
+                "edgeCacheUrl": "https:\/\/lh3.googleusercontent.com\/MNg6BzhoEPRU8tfos7X1BLh-Fy2PqcahWymRVgro-L896CZkLDD17fkxtq1XAAJQ2UILGAtNm8gxogMB0XVA9HAzWoZyjWpS0H6bb98",
+                "url": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/styles\/is_large\/public\/images\/CDTR-generic-cover-2022.png?itok=eYAVbLdv",
+                "width": 1160,
+                "height": 703,
+                "expirationDate": 1710693598746
+            },
+            "canonicalUrl": "https:\/\/www.ecdc.europa.eu\/en\/publications-data\/communicable-disease-threats-report-11-17-february-2024-week-7",
+            "snippet": "\n<div><div><div><div><div>\n<h3>\nCOVID-19\n<\/h3>\n<p>See all information on COVID-19, situation updates, risk assessments, questions and answers, latest evidence, surveillance and laboratory guidance and how to protect yourself and others.<\/p>\n<span>Read more <\/span>\n<\/div>\n<\/div><\/div><\/div><\/div>",
+            "expansionFailureStatus": 4,
+            "unread": true,
+            "categories": [
+                {
+                    "id": "enterprise\/univndere\/category\/7a35c025-07d0-4043-935e-77cddfc405ab",
+                    "label": "COVID-19"
+                }
+            ],
+            "entities": [
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D003141",
+                    "label": "Communicable Diseases",
+                    "mentions": [
+                        {
+                            "text": "Communicable disease"
+                        },
+                        {
+                            "text": "Communicable Disease"
+                        }
+                    ],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                    "label": "Influenza, Human",
+                    "mentions": [
+                        {
+                            "text": "influenza"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D018352",
+                    "label": "Coronavirus Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "text": "Middle East respiratory syndrome"
+                        },
+                        {
+                            "text": "MERS"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D005585",
+                    "label": "Influenza in Birds",
+                    "mentions": [
+                        {
+                            "text": "avian influenza"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                    "label": "Severe Acute Respiratory Syndrome",
+                    "mentions": [
+                        {
+                            "text": "SARS"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D004165",
+                    "label": "Diphtheria",
+                    "mentions": [
+                        {
+                            "text": "diphtheria"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D003715",
+                    "label": "Dengue",
+                    "mentions": [
+                        {
+                            "text": "dengue"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D012140",
+                    "label": "Respiratory Tract Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                            "label": "Influenza, Human"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D003333",
+                    "label": "Coronaviridae Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D018352",
+                            "label": "Coronavirus Infections"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D000820",
+                    "label": "Animal Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D005585",
+                            "label": "Influenza in Birds"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D000079426",
+                    "label": "Vector Borne Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003715",
+                            "label": "Dengue"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D007239",
+                    "label": "Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003141",
+                            "label": "Communicable Diseases"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                            "label": "Influenza, Human"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D018352",
+                            "label": "Coronavirus Infections"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D001715",
+                    "label": "Bird Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D005585",
+                            "label": "Influenza in Birds"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D016908",
+                    "label": "Gram-Positive Bacterial Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D004165",
+                            "label": "Diphtheria"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D018177",
+                    "label": "Flavivirus Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003715",
+                            "label": "Dengue"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D009976",
+                    "label": "Orthomyxoviridae Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                            "label": "Influenza, Human"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D005585",
+                            "label": "Influenza in Birds"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D006482",
+                    "label": "Hemorrhagic Fevers, Viral",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003715",
+                            "label": "Dengue"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D003354",
+                    "label": "Corynebacterium Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D004165",
+                            "label": "Diphtheria"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D013568",
+                    "label": "Pathological Conditions, Signs and Symptoms",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003141",
+                            "label": "Communicable Diseases"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D010335",
+                    "label": "Pathologic Processes",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003141",
+                            "label": "Communicable Diseases"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D012327",
+                    "label": "RNA Virus Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                            "label": "Influenza, Human"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D018352",
+                            "label": "Coronavirus Infections"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D005585",
+                            "label": "Influenza in Birds"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D001102",
+                    "label": "Arbovirus Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003715",
+                            "label": "Dengue"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D014777",
+                    "label": "Virus Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                            "label": "Influenza, Human"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D018352",
+                            "label": "Coronavirus Infections"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D005585",
+                            "label": "Influenza in Birds"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D001423",
+                    "label": "Bacterial Infections and Mycoses",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D004165",
+                            "label": "Diphtheria"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D000193",
+                    "label": "Actinomycetales Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D004165",
+                            "label": "Diphtheria"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D018178",
+                    "label": "Flaviviridae Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003715",
+                            "label": "Dengue"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D030341",
+                    "label": "Nidovirales Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D018352",
+                            "label": "Coronavirus Infections"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D012141",
+                    "label": "Respiratory Tract Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                            "label": "Influenza, Human"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D001424",
+                    "label": "Bacterial Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D004165",
+                            "label": "Diphtheria"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D020969",
+                    "label": "Disease Attributes",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003141",
+                            "label": "Communicable Diseases"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                }
+            ],
+            "leoSummary": {
+                "sentences": []
+            }
+        },
+        {
+            "language": "en",
+            "id": "GfbTOICHH8Tc4RwmwpuDaLx0W6Uljk5MR9TH26jQNrQ=_18dac26c0a8:286d793:caebd05b",
+            "fingerprint": "46da7f28",
+            "originId": "https:\/\/www.ecdc.europa.eu\/en\/laboratory-support-influenza-and-sars-cov-2-europe-aurorae",
+            "origin": {
+                "title": "COVID-19",
+                "streamId": "feed\/https:\/\/www.ecdc.europa.eu\/en\/taxonomy\/term\/2942\/feed",
+                "htmlUrl": "https:\/\/www.ecdc.europa.eu\/en"
+            },
+            "title": "Laboratory Support for influenza and SARS-CoV-2 for Europe: AURORAE",
+            "author": "ECDC",
+            "crawled": 1707990237352,
+            "published": 1707990237352,
+            "alternate": [
+                {
+                    "type": "text\/html",
+                    "href": "https:\/\/www.ecdc.europa.eu\/en\/laboratory-support-influenza-and-sars-cov-2-europe-aurorae"
+                }
+            ],
+            "summary": {
+                "content": "AURORAE provides laboratory support for surveillance, preparedness and response to COVID-19 and influenza and strengthens the capacity for genomic epidemiology and public health bioinformatics through interdisciplinary training, which is crucial for response during a pandemic or unexpected major public health events.",
+                "direction": "ltr"
+            },
+            "canonicalUrl": "https:\/\/www.ecdc.europa.eu\/en",
+            "expansionFailureStatus": 4,
+            "unread": true,
+            "categories": [
+                {
+                    "id": "enterprise\/univndere\/category\/7a35c025-07d0-4043-935e-77cddfc405ab",
+                    "label": "COVID-19"
+                }
+            ],
+            "commonTopics": [
+                {
+                    "type": "topic",
+                    "id": "nlp\/f\/topic\/977",
+                    "score": 0.921,
+                    "label": "Global Health",
+                    "salienceLevel": "about"
+                }
+            ],
+            "entities": [
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                    "label": "Influenza, Human",
+                    "mentions": [
+                        {
+                            "text": "influenza"
+                        }
+                    ],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                    "label": "Severe Acute Respiratory Syndrome",
+                    "mentions": [
+                        {
+                            "text": "SARS"
+                        }
+                    ],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "location",
+                    "id": "nlp\/f\/entity\/gz:loc:46",
+                    "label": "Europe",
+                    "mentions": [
+                        {
+                            "text": "Europe"
+                        }
+                    ],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                    "label": "COVID-19",
+                    "mentions": [
+                        {
+                            "text": "COVID 19"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D012327",
+                    "label": "RNA Virus Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                            "label": "Influenza, Human"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D018352",
+                    "label": "Coronavirus Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D011014",
+                    "label": "Pneumonia",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D003333",
+                    "label": "Coronaviridae Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D009976",
+                    "label": "Orthomyxoviridae Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                            "label": "Influenza, Human"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D012141",
+                    "label": "Respiratory Tract Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                            "label": "Influenza, Human"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D007239",
+                    "label": "Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                            "label": "Influenza, Human"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D012140",
+                    "label": "Respiratory Tract Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                            "label": "Influenza, Human"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D030341",
+                    "label": "Nidovirales Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D011024",
+                    "label": "Pneumonia, Viral",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D008171",
+                    "label": "Lung Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D014777",
+                    "label": "Virus Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                            "label": "Influenza, Human"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                }
+            ],
+            "leoSummary": {
+                "sentences": []
+            },
+            "engagement": 20933,
+            "engagementRate": 1
+        },
+        {
+            "fingerprint": "e56cb1cf",
+            "language": "en",
+            "id": "GfbTOICHH8Tc4RwmwpuDaLx0W6Uljk5MR9TH26jQNrQ=_18da1aa1e4d:193e586:33ffab25",
+            "originId": "https:\/\/www.ecdc.europa.eu\/en\/publications-data\/protocol-covid-19-vaccine-effectiveness-estimation-using-health-data-registries",
+            "origin": {
+                "streamId": "feed\/https:\/\/www.ecdc.europa.eu\/en\/taxonomy\/term\/2942\/feed",
+                "title": "COVID-19",
+                "htmlUrl": "https:\/\/www.ecdc.europa.eu\/en"
+            },
+            "title": "Protocol for a COVID-19 vaccine effectiveness estimation using health data registries, VEBIS multi-country study - Version 2.0",
+            "author": "ECDC",
+            "crawled": 1707814297165,
+            "published": 1707814297165,
+            "alternate": [
+                {
+                    "type": "text\/html",
+                    "href": "https:\/\/www.ecdc.europa.eu\/en\/publications-data\/protocol-covid-19-vaccine-effectiveness-estimation-using-health-data-registries"
+                }
+            ],
+            "summary": {
+                "content": "This protocol presents a common updated methodology to estimate vaccine effectiveness (VE) for COVID-19, using established health data registries in participating European Union and European Economic Area (EU\/EEA) countries.",
+                "direction": "ltr"
+            },
+            "visual": {
+                "processor": "feedly-nikon-v3.1",
+                "contentType": "image\/png",
+                "edgeCacheUrl": "https:\/\/lh3.googleusercontent.com\/N_NY4--x3HmsSaRreSGRfEkm7VDwgBpKlQXMGzt83Tx3VPdxDi5cz5d34Oz1477gXmy2dlFvkorvhFpmAuviul2aCN3Pn70aiUVhWDA",
+                "url": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/styles\/is_large\/public\/images\/Protocol%20for%20a%20COVID-19%20vaccine%20effectiveness%20study%20%20cover.png?itok=T2KNg6jO",
+                "width": 1160,
+                "height": 703,
+                "expirationDate": 1710406738094
+            },
+            "canonicalUrl": "https:\/\/www.ecdc.europa.eu\/en\/publications-data\/protocol-covid-19-vaccine-effectiveness-estimation-using-health-data-registries",
+            "snippet": "\n<div><div><div><div><div><p>This work is performed within the Vaccine Effectiveness, Burden and Impact Studies (VEBIS) project. The first objective of the study is to monitor COVID-19 VE in a prospective manner, with the production of VE monthly pooled estimates from up to eight countries, including Denmark, Spain (Navarre...<\/p><\/div><\/div><\/div><\/div><\/div>",
+            "abstract": {
+                "text": "This work is performed within the Vaccine Effectiveness, Burden and Impact Studies (VEBIS) project. The first objective of the study is to monitor COVID-19 VE in a prospective manner, with the production of VE monthly pooled estimates from up to eight countries."
+            },
+            "fullContent": "\n<div><div><div><div><div><p>This work is performed within the Vaccine Effectiveness, Burden and Impact Studies (VEBIS) project. The first objective of the study is to monitor COVID-19 VE in a prospective manner, with the production of VE monthly pooled estimates from up to eight countries, including Denmark, Spain (Navarre region only), Norway, Portugal, Belgium, and Luxembourg from October 2022, Italy from June 2023, and the Netherlands from October 2023, with retrospective contributions from the Netherlands and Italy since January and February 2023 respectively.<\/p>\n<p>The present master protocol (version 2.0) intends to update the previously used methods [2] to monitor COVID-19 VE to reflect on the current SARS-CoV-2 testing strategies and 2023 autumn vaccination recommendations that now target specific age groups.<\/p>\n<p>The proposed study design is a multicentre retrospective cohort design using data collected routinely from electronic health record (EHR) databases. The analysis included data from the resident community-dwelling population (i.e. excluding those living in nursing homes) \u226565 years of age and who belong to age-group for whom vaccination has been universally recommended at study enrolment (i.e. if vaccination with a booster was only recommended for individuals \u226580 years of age at a given month, VE corresponding to that month is only estimated in that group). Outcomes of interest include hospital admission due to COVID-19 and COVID-19-related death. Other data to be collected include socioeconomic (age, sex, socioeconomic status), clinical (comorbidities) and COVID-19 vaccination variables (brand, number, and dates of dose administration).<\/p>\n<p>The protocol outlines the agreed methods for data analysis of national databases and includes a plan for the pooled analysis of all participating country VE estimates. With the vaccination campaign being first deployed between September and October 2023 in most countries, a first early estimate of VE will be performed in January 2024 covering the early phase of the rollout (October\u2013November 2023) eight-week follow-up period (consolidated data available in January of the following year, 2024) followed by mid-year estimates in March, June, and September 2024.<\/p>\n<p>This master protocol is primarily intended to guide the implementation of the ECDC-funded study in participating countries. However, ECDC encourages the conduct of VE studies, using this protocol as a basis, in countries that do not currently plan to participate in ECDC-funded studies. The use of common protocols will facilitate the comparability of results across studies, countries, sites, and time.<\/p>\n<\/div><\/div><\/div><\/div><\/div>",
+            "unread": true,
+            "categories": [
+                {
+                    "id": "enterprise\/univndere\/category\/7a35c025-07d0-4043-935e-77cddfc405ab",
+                    "label": "COVID-19"
+                }
+            ],
+            "commonTopics": [
+                {
+                    "type": "industryTopic",
+                    "id": "nlp\/f\/topic\/4014",
+                    "score": 0.908,
+                    "label": "Biopharma Industry",
+                    "salienceLevel": "about"
+                }
+            ],
+            "entities": [
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                    "label": "COVID-19",
+                    "mentions": [
+                        {
+                            "text": "COVID 19"
+                        }
+                    ],
+                    "salienceLevel": "about"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                    "label": "Severe Acute Respiratory Syndrome",
+                    "mentions": [
+                        {
+                            "text": "SARS"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D012327",
+                    "label": "RNA Virus Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D018352",
+                    "label": "Coronavirus Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D011014",
+                    "label": "Pneumonia",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D003333",
+                    "label": "Coronaviridae Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D012141",
+                    "label": "Respiratory Tract Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D007239",
+                    "label": "Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D011024",
+                    "label": "Pneumonia, Viral",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D030341",
+                    "label": "Nidovirales Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D012140",
+                    "label": "Respiratory Tract Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D008171",
+                    "label": "Lung Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D014777",
+                    "label": "Virus Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                }
+            ],
+            "leoSummary": {
+                "sentences": [
+                    {
+                        "text": "The protocol outlines the agreed methods for data analysis of national databases and includes a plan for the pooled analysis of all participating country VE estimates."
+                    },
+                    {
+                        "text": "The present master protocol (version 2.0) intends to update the previously used methods [2] to monitor COVID-19 VE to reflect on the current SARS-CoV-2 testing strategies and 2023 autumn vaccination recommendations that now target specific age groups."
+                    }
+                ]
+            }
+        },
+        {
+            "fingerprint": "f100ed4e",
+            "language": "en",
+            "id": "GfbTOICHH8Tc4RwmwpuDaLx0W6Uljk5MR9TH26jQNrQ=_18d8ea529e8:89396e:33ffab25",
+            "originId": "https:\/\/www.ecdc.europa.eu\/en\/publications-data\/communicable-disease-threats-report-4-10-february-2024-week-6",
+            "origin": {
+                "streamId": "feed\/https:\/\/www.ecdc.europa.eu\/en\/taxonomy\/term\/2942\/feed",
+                "title": "COVID-19",
+                "htmlUrl": "https:\/\/www.ecdc.europa.eu\/en"
+            },
+            "title": "Communicable disease threats report, 4-10 February 2024, week 6",
+            "author": "ECDC",
+            "crawled": 1707495205352,
+            "published": 1707495205352,
+            "alternate": [
+                {
+                    "type": "text\/html",
+                    "href": "https:\/\/www.ecdc.europa.eu\/en\/publications-data\/communicable-disease-threats-report-4-10-february-2024-week-6"
+                }
+            ],
+            "summary": {
+                "content": "This issue of the ECDC Communicable Disease Threats Report (CDTR) the period 4-10 February 2024 and includes updates on avian influenza, measles, MERS-CoV, COVID-19, swine influenza, respiratory virus epidemiology, Western equine encephalitis, Hepatitis E, and the Chinese New Year.",
+                "direction": "ltr"
+            },
+            "visual": {
+                "processor": "feedly-nikon-v3.1",
+                "contentType": "image\/png",
+                "edgeCacheUrl": "https:\/\/lh3.googleusercontent.com\/MNg6BzhoEPRU8tfos7X1BLh-Fy2PqcahWymRVgro-L896CZkLDD17fkxtq1XAAJQ2UILGAtNm8gxogMB0XVA9HAzWoZyjWpS0H6bb98",
+                "url": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/styles\/is_large\/public\/images\/CDTR-generic-cover-2022.png?itok=eYAVbLdv",
+                "width": 1160,
+                "height": 703,
+                "expirationDate": 1710088561417
+            },
+            "canonicalUrl": "https:\/\/www.ecdc.europa.eu\/en\/publications-data\/communicable-disease-threats-report-4-10-february-2024-week-6",
+            "expansionFailureStatus": 4,
+            "unread": true,
+            "categories": [
+                {
+                    "id": "enterprise\/univndere\/category\/7a35c025-07d0-4043-935e-77cddfc405ab",
+                    "label": "COVID-19"
+                }
+            ],
+            "entities": [
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D003141",
+                    "label": "Communicable Diseases",
+                    "mentions": [
+                        {
+                            "text": "Communicable disease"
+                        },
+                        {
+                            "text": "Communicable Disease"
+                        }
+                    ],
+                    "salienceLevel": "about"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                    "label": "COVID-19",
+                    "mentions": [
+                        {
+                            "text": "COVID 19"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D008457",
+                    "label": "Measles",
+                    "mentions": [
+                        {
+                            "text": "measles"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D016751",
+                    "label": "Hepatitis E",
+                    "mentions": [
+                        {
+                            "text": "Hepatitis E"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D005585",
+                    "label": "Influenza in Birds",
+                    "mentions": [
+                        {
+                            "text": "avian influenza"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D018352",
+                    "label": "Coronavirus Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "text": "MERS"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D009976",
+                    "label": "Orthomyxoviridae Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D005585",
+                            "label": "Influenza in Birds"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "text": "swine influenza"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                    "label": "Encephalomyelitis, Western Equine",
+                    "mentions": [
+                        {
+                            "text": "Western equine encephalitis"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D001102",
+                    "label": "Arbovirus Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D011014",
+                    "label": "Pneumonia",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D001927",
+                    "label": "Brain Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D014777",
+                    "label": "Virus Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D018352",
+                            "label": "Coronavirus Infections"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D008457",
+                            "label": "Measles"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D018185",
+                    "label": "Morbillivirus Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D008457",
+                            "label": "Measles"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D004683",
+                    "label": "Encephalomyelitis, Equine",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D004660",
+                    "label": "Encephalitis",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D008107",
+                    "label": "Liver Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D016751",
+                            "label": "Hepatitis E"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D012327",
+                    "label": "RNA Virus Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D018352",
+                            "label": "Coronavirus Infections"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D008457",
+                            "label": "Measles"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D020805",
+                    "label": "Central Nervous System Viral Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D000069544",
+                    "label": "Infectious Encephalitis",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D010335",
+                    "label": "Pathologic Processes",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003141",
+                            "label": "Communicable Diseases"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D002493",
+                    "label": "Central Nervous System Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D020969",
+                    "label": "Disease Attributes",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003141",
+                            "label": "Communicable Diseases"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D012141",
+                    "label": "Respiratory Tract Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D018792",
+                    "label": "Encephalitis, Viral",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D012140",
+                    "label": "Respiratory Tract Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D004066",
+                    "label": "Digestive System Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D016751",
+                            "label": "Hepatitis E"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D007239",
+                    "label": "Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003141",
+                            "label": "Communicable Diseases"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D018352",
+                            "label": "Coronavirus Infections"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D004679",
+                    "label": "Encephalomyelitis",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D013568",
+                    "label": "Pathological Conditions, Signs and Symptoms",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003141",
+                            "label": "Communicable Diseases"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D003333",
+                    "label": "Coronaviridae Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D018352",
+                            "label": "Coronavirus Infections"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D000079426",
+                    "label": "Vector Borne Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D000820",
+                    "label": "Animal Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D005585",
+                            "label": "Influenza in Birds"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D004671",
+                    "label": "Encephalitis, Arbovirus",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D030341",
+                    "label": "Nidovirales Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D018352",
+                            "label": "Coronavirus Infections"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D018701",
+                    "label": "Mononegavirales Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D008457",
+                            "label": "Measles"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D018354",
+                    "label": "Alphavirus Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D002494",
+                    "label": "Central Nervous System Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D006505",
+                    "label": "Hepatitis",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D016751",
+                            "label": "Hepatitis E"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D006525",
+                    "label": "Hepatitis, Viral, Human",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D016751",
+                            "label": "Hepatitis E"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D009422",
+                    "label": "Nervous System Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D011024",
+                    "label": "Pneumonia, Viral",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D018184",
+                    "label": "Paramyxoviridae Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D008457",
+                            "label": "Measles"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D001715",
+                    "label": "Bird Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D005585",
+                            "label": "Influenza in Birds"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D008171",
+                    "label": "Lung Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D014036",
+                    "label": "Togaviridae Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                }
+            ],
+            "leoSummary": {
+                "sentences": []
+            }
+        },
+        {
+            "fingerprint": "cf805461",
+            "language": "en",
+            "id": "GfbTOICHH8Tc4RwmwpuDaLx0W6Uljk5MR9TH26jQNrQ=_18d7db94124:1d66ae7:caebd05b",
+            "originId": "https:\/\/www.ecdc.europa.eu\/en\/publications-data\/core-protocol-ecdc-studies-covid-19-vaccine-effectiveness-3",
+            "origin": {
+                "htmlUrl": "https:\/\/www.ecdc.europa.eu\/en",
+                "streamId": "feed\/https:\/\/www.ecdc.europa.eu\/en\/taxonomy\/term\/2942\/feed",
+                "title": "COVID-19"
+            },
+            "title": "Core protocol for ECDC studies of COVID-19 vaccine effectiveness against hospitalisation with Severe Acute Respiratory Infection, laboratory-confirmed with SARS-CoV-2 or with seasonal influenza - Version 3.0",
+            "author": "ECDC",
+            "crawled": 1707211309348,
+            "published": 1707211309348,
+            "alternate": [
+                {
+                    "type": "text\/html",
+                    "href": "https:\/\/www.ecdc.europa.eu\/en\/publications-data\/core-protocol-ecdc-studies-covid-19-vaccine-effectiveness-3"
+                }
+            ],
+            "summary": {
+                "content": "This core protocol for ECDC studies of VE against hospitalisation with SARI laboratory-confirmed with SARS-CoV-2 or with influenza, version 3.0, represents an update to the main elements for a multi-country hospital-based study of COVID-19 vaccine effectiveness in patients hospitalised with SARI, initially published as version 1.0 [5], updated to version 2.0 [6].",
+                "direction": "ltr"
+            },
+            "canonicalUrl": "https:\/\/www.ecdc.europa.eu\/en\/publications-data\/core-protocol-ecdc-studies-covid-19-vaccine-effectiveness-3",
+            "snippet": "\n<div><div><div><div><div><p>The end of 2019 saw the emergence of a novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) causing coronavirus disease 2019 (COVID-19). As of October 2023, almost 276 million cases and more than<\/p>\n<p>2.2 million deaths had been reported in the WHO European Region [1]. As of October 202...<\/p><\/div><\/div><\/div><\/div><\/div>",
+            "abstract": {
+                "text": "The end of 2019 saw the emergence of a novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Almost 276 million cases and more than 2.2 million deaths had been reported in the WHO European Region. Eight vaccines (Comirnaty, COVID-19 Vaccine Valneva, Nuvaxovid, Vaxzevria, Jcovden, VidPrevtyn Beta, Bimervax, and six adapted vaccines have been authorised by the European Commission based on the scientific opinion of the European Medicines Agency."
+            },
+            "fullContent": "\n<div><div><div><div><div><p>The end of 2019 saw the emergence of a novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) causing coronavirus disease 2019 (COVID-19). As of October 2023, almost 276 million cases and more than<\/p>\n<p>2.2 million deaths had been reported in the WHO European Region [1]. As of October 2023, eight vaccines (Comirnaty, COVID-19 Vaccine Valneva, Nuvaxovid [previously Novavax], Spikevax [previously COVID-19 vaccine Moderna], Vaxzevria [previously AstraZeneca], Jcovden [previously Covid-19 Vaccine Janssen], VidPrevtyn Beta [from Sanofi] and Bimervax [previously COVID-19 Vaccine HIPRA]), Nuvaxovid (NVX-CoV2373) and six adapted vaccines (Comirnaty Original\/Omicron BA.1, Spikevax bivalent Original\/Omicron BA.1, Comirnaty Original\/Omicron BA.4-5, Spikevax bivalent Original\/Omicron BA.4-5, Comirnaty Omicron XBB.1.5 and Spikevax XBB.1.5 have been authorised by the European Commission based on the scientific opinion of the European Medicines Agency (EMA) for use in the European Union, and many others are under rolling review [2].<\/p>\n<p>Influenza viruses undergo frequent genetic and antigenic changes. The influenza vaccine is reformulated each year and annual re-vaccination is recommended. Observed influenza vaccine effectiveness (IVE) varies from year to year between population sub-groups (age groups, risk groups) and differs for the various influenza types, subtypes and genetic clades, and outcomes measured. Immunological correlates of protection are not well defined. In 2017, the EMA formally adopted new guidelines on influenza vaccines covering, inter alia, post-authorisation studies of vaccine effectiveness, including brand-specific IVE data [3].<\/p>\n<p>The available vaccine products currently in use for EU\/EEA immunisation programmes, the target groups for vaccination and the vaccination coverage all vary across countries. New vaccines are being developed for which limited or no effectiveness data are yet available in the EU. A comparison by vaccine type (adjuvanted vs non- adjuvanted, live attenuated vs inactivated, egg- vs cell-based, high vs standard dose), group (split virion, subunit, etc.) and product could provide essential information for vaccine recommendations and health economic assessments.<\/p>\n<p>In 2020, the European Commission stressed the importance of continuously monitoring the safety and effectiveness of vaccines in the EU\/EEA in the post-authorisation phase, with particular emphasis on COVID-19 vaccines in the context of the ongoing pandemic [4]. The 2018 \u2018Council Recommendation on Strengthened Cooperation against Vaccine-preventable Diseases\u2019 already called on the European Centre for Disease Prevention and Control (ECDC) and EMA to cooperate to ensure the continued monitoring of vaccines and vaccination in use in EU\/EEA vaccination programmes [5]. This request was subsequently formalised as part of the extended EMA regulatory mandate [6] and ECDC\u2019s newly amended mandate [7], requiring the two agencies to develop a structured and independent post-authorisation vaccine monitoring platform, initially prioritising COVID-19 vaccines. ECDC and EMA officially established and launched the platform in May 2022, with the intention of bringing together public health and regulatory experts to discuss the studies needed to generate real-life evidence on the safety and effectiveness of vaccines in use in EU\/EEA immunisation programmes.<\/p>\n<p>From 2020, ECDC began building the infrastructure to perform COVID-19 vaccine effectiveness (CVE) studies, using the lessons learned from other vaccine effectiveness studies already conducted. One such study was the ECDC- funded I-MOVE (Influenza \u2013 Monitoring Vaccine Effectiveness in Europe) project, under which influenza vaccine effectiveness (IVE) has been measured in Europe using primary care sentinel surveillance systems since the 2007\/08 influenza season [3,4]. The infrastructure will be used to build a system that regularly monitors vaccine effectiveness and performs studies, including impact and burden of disease studies, in different settings.<\/p>\n<p>Depending on the setting, information will be provided on different outcomes (severe disease, moderate disease, transmission, etc). The overall project is called VEBIS (Vaccine Effectiveness, Burden and Impact Studies) and it includes different networks of study sites\/countries\/infrastructures, where the multi-country studies are conducted.<\/p>\n<p>This core protocol for ECDC studies of VE against hospitalisation with severe acute respiratory infection (SARI) laboratory-confirmed with SARS-CoV-2 or with influenza, version 3.0, represents an update to the main elements for a multi-country hospital-based study of COVID-19 vaccine effectiveness in patients hospitalised with SARI, initially published as version 1.0 [5], updated to version 2.0 [6]. This version includes updates on methodology for CVE pooled analyses The larger sample size achieved by combining data from multiple sites will provide more statistical power to meet more specific objectives. The protocol can be implemented for COVID-19 and\/or influenza.<\/p>\n<p>The proposed method is a case-control study using a test negative design. The study population consists of individuals of all ages, belonging to the target group for COVID-19 or influenza vaccination, hospitalised with SARI symptoms and no contra-indication for being vaccinated with the vaccine of interest. It would be beneficial if countries test for all other respiratory viruses (as appropriate depending on time of year).<\/p>\n<p>This core protocol is primarily intended to guide the implementation of ECDC-funded studies. However, ECDC encourages using this protocol as a basis to conduct vaccine effectiveness studies in countries not currently planning to participate in ECDC-funded studies. The use of consistent protocols will facilitate the comparability of study results across studies, countries and study sites.<\/p>\n<\/div><\/div><\/div><\/div><\/div>",
+            "unread": true,
+            "categories": [
+                {
+                    "id": "enterprise\/univndere\/category\/7a35c025-07d0-4043-935e-77cddfc405ab",
+                    "label": "COVID-19"
+                }
+            ],
+            "commonTopics": [
+                {
+                    "type": "industryTopic",
+                    "id": "nlp\/f\/topic\/4014",
+                    "label": "Biopharma Industry",
+                    "score": 0.976,
+                    "salienceLevel": "about"
+                },
+                {
+                    "type": "topic",
+                    "id": "nlp\/f\/topic\/1734",
+                    "label": "Pharma",
+                    "score": 19.68921486868122,
+                    "salienceLevel": "about"
+                },
+                {
+                    "type": "topic",
+                    "id": "nlp\/f\/topic\/977",
+                    "label": "Global Health",
+                    "score": 0.87,
+                    "salienceLevel": "about"
+                }
+            ],
+            "entities": [
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                    "label": "COVID-19",
+                    "mentions": [
+                        {
+                            "text": "COVID 19"
+                        },
+                        {
+                            "text": "coronavirus disease 2019"
+                        },
+                        {
+                            "text": "Covid 19"
+                        }
+                    ],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                    "label": "Influenza, Human",
+                    "mentions": [
+                        {
+                            "text": "influenza"
+                        },
+                        {
+                            "text": "Influenza"
+                        }
+                    ],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "org",
+                    "id": "nlp\/f\/entity\/wd:918501",
+                    "label": "European Centre for Disease Prevention and Control",
+                    "mentions": [
+                        {
+                            "text": "ecdc"
+                        },
+                        {
+                            "text": "european centre for disease prevention and control"
+                        }
+                    ],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                    "label": "Severe Acute Respiratory Syndrome",
+                    "mentions": [
+                        {
+                            "text": "SARS"
+                        },
+                        {
+                            "text": "severe acute respiratory syndrome"
+                        }
+                    ],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D007757",
+                    "label": "Laboratory Infection",
+                    "mentions": [
+                        {
+                            "text": "Infection laboratory"
+                        }
+                    ],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "org",
+                    "id": "nlp\/f\/entity\/gz:org:valneva",
+                    "label": "Valneva SE",
+                    "mentions": [
+                        {
+                            "text": "Valneva"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "org",
+                    "id": "nlp\/f\/entity\/gz:org:sanofi",
+                    "label": "Sanofi",
+                    "mentions": [
+                        {
+                            "text": "Sanofi"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "org",
+                    "id": "nlp\/f\/entity\/gz:org:moderna-therapeutics",
+                    "label": "Moderna",
+                    "mentions": [
+                        {
+                            "text": "Moderna"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "org",
+                    "id": "nlp\/f\/entity\/gz:org:astrazeneca",
+                    "label": "AstraZeneca",
+                    "mentions": [
+                        {
+                            "text": "AstraZeneca"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D007239",
+                    "label": "Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                            "label": "Influenza, Human"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "text": "infection"
+                        }
+                    ],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "org",
+                    "id": "nlp\/f\/entity\/gz:org:fortune-500-companies",
+                    "label": "Fortune 500 Companies",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:org:moderna-therapeutics",
+                            "label": "Moderna"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "org",
+                    "id": "nlp\/f\/entity\/gz:org:drug-manufacturers",
+                    "label": "Drug Manufacturing Companies",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:org:sanofi",
+                            "label": "Sanofi"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:org:astrazeneca",
+                            "label": "AstraZeneca"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "org",
+                    "id": "nlp\/f\/entity\/gz:org:global-500-companies",
+                    "label": "Global 500 Companies",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:org:sanofi",
+                            "label": "Sanofi"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:org:astrazeneca",
+                            "label": "AstraZeneca"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "org",
+                    "id": "nlp\/f\/entity\/gz:org:biopharma-companies",
+                    "label": "Biopharma Companies",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:org:sanofi",
+                            "label": "Sanofi"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "org",
+                    "id": "nlp\/f\/entity\/gz:org:biotech-companies",
+                    "label": "Biotech Companies",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:org:valneva",
+                            "label": "Valneva SE"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:org:sanofi",
+                            "label": "Sanofi"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:org:moderna-therapeutics",
+                            "label": "Moderna"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D012140",
+                    "label": "Respiratory Tract Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                            "label": "Influenza, Human"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D008171",
+                    "label": "Lung Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D014777",
+                    "label": "Virus Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                            "label": "Influenza, Human"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D011024",
+                    "label": "Pneumonia, Viral",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D012327",
+                    "label": "RNA Virus Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                            "label": "Influenza, Human"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D003333",
+                    "label": "Coronaviridae Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D018352",
+                    "label": "Coronavirus Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D011014",
+                    "label": "Pneumonia",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D009784",
+                    "label": "Occupational Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D007757",
+                            "label": "Laboratory Infection"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D012141",
+                    "label": "Respiratory Tract Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                            "label": "Influenza, Human"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D030341",
+                    "label": "Nidovirales Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D009976",
+                    "label": "Orthomyxoviridae Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                            "label": "Influenza, Human"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                }
+            ],
+            "leoSummary": {
+                "sentences": [
+                    {
+                        "text": "This core protocol for ECDC studies of VE against hospitalisation with severe acute respiratory infection (SARI) laboratory-confirmed with SARS-CoV-2 or with influenza, version 3.0, represents an update to the main elements for a multi-country hospital-based study of COVID-19 vaccine effectiveness in patients hospitalised with SARI, initially published as version 1.0 [5], updated to version 2.0 [6]."
+                    },
+                    {
+                        "text": "In 2017, the EMA formally adopted new guidelines on influenza vaccines covering, inter alia, post-authorisation studies of vaccine effectiveness, including brand-specific IVE data [3]."
+                    }
+                ]
+            },
+            "engagement": 1
+        },
+        {
+            "language": "en",
+            "fingerprint": "3ec1f188",
+            "id": "GfbTOICHH8Tc4RwmwpuDaLx0W6Uljk5MR9TH26jQNrQ=_18d797fd192:165218b:4a90f2c3",
+            "originId": "https:\/\/www.ecdc.europa.eu\/en\/publications-data\/communicable-disease-threats-report-31-december-2023-6-january-2024-week-1",
+            "origin": {
+                "streamId": "feed\/https:\/\/www.ecdc.europa.eu\/en\/taxonomy\/term\/2942\/feed",
+                "title": "COVID-19",
+                "htmlUrl": "https:\/\/www.ecdc.europa.eu\/en"
+            },
+            "title": "Communicable disease threats report, 31 December 2023 - 6 January 2024, week 1",
+            "author": "ECDC",
+            "crawled": 1707140436370,
+            "published": 1707140436370,
+            "alternate": [
+                {
+                    "href": "https:\/\/www.ecdc.europa.eu\/en\/publications-data\/communicable-disease-threats-report-31-december-2023-6-january-2024-week-1",
+                    "type": "text\/html"
+                }
+            ],
+            "summary": {
+                "content": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 31 December 2023-6 January 2024 and includes updates on Avian influenza A(H5N6 and H9N2), SARS-CoV-2 variant classification, Western Equine Encephalitis, and an overview of respiratory virus epidemiology in the EU\/EEA.",
+                "direction": "ltr"
+            },
+            "visual": {
+                "processor": "feedly-nikon-v3.1",
+                "contentType": "image\/png",
+                "edgeCacheUrl": "https:\/\/lh3.googleusercontent.com\/MNg6BzhoEPRU8tfos7X1BLh-Fy2PqcahWymRVgro-L896CZkLDD17fkxtq1XAAJQ2UILGAtNm8gxogMB0XVA9HAzWoZyjWpS0H6bb98",
+                "url": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/styles\/is_large\/public\/images\/CDTR-generic-cover-2022.png?itok=eYAVbLdv",
+                "width": 1160,
+                "height": 703,
+                "expirationDate": 1709732726208
+            },
+            "canonicalUrl": "https:\/\/www.ecdc.europa.eu\/en\/publications-data\/communicable-disease-threats-report-31-december-2023-6-january-2024-week-1",
+            "expansionFailureStatus": 4,
+            "unread": true,
+            "categories": [
+                {
+                    "id": "enterprise\/univndere\/category\/7a35c025-07d0-4043-935e-77cddfc405ab",
+                    "label": "COVID-19"
+                }
+            ],
+            "entities": [
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D003141",
+                    "label": "Communicable Diseases",
+                    "mentions": [
+                        {
+                            "text": "Communicable disease"
+                        },
+                        {
+                            "text": "Communicable Disease"
+                        }
+                    ],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                    "label": "Severe Acute Respiratory Syndrome",
+                    "mentions": [
+                        {
+                            "text": "SARS"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                    "label": "Encephalomyelitis, Western Equine",
+                    "mentions": [
+                        {
+                            "text": "Western Equine Encephalitis"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D005585",
+                    "label": "Influenza in Birds",
+                    "mentions": [
+                        {
+                            "text": "Avian influenza"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D012327",
+                    "label": "RNA Virus Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D005585",
+                            "label": "Influenza in Birds"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D009976",
+                    "label": "Orthomyxoviridae Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D005585",
+                            "label": "Influenza in Birds"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D002494",
+                    "label": "Central Nervous System Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D004679",
+                    "label": "Encephalomyelitis",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D013568",
+                    "label": "Pathological Conditions, Signs and Symptoms",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003141",
+                            "label": "Communicable Diseases"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D018354",
+                    "label": "Alphavirus Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D014036",
+                    "label": "Togaviridae Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D012140",
+                    "label": "Respiratory Tract Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D000079426",
+                    "label": "Vector Borne Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D009422",
+                    "label": "Nervous System Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D018352",
+                    "label": "Coronavirus Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D014777",
+                    "label": "Virus Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D005585",
+                            "label": "Influenza in Birds"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D030341",
+                    "label": "Nidovirales Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D018792",
+                    "label": "Encephalitis, Viral",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D001715",
+                    "label": "Bird Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D005585",
+                            "label": "Influenza in Birds"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D003333",
+                    "label": "Coronaviridae Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D001927",
+                    "label": "Brain Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D010335",
+                    "label": "Pathologic Processes",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003141",
+                            "label": "Communicable Diseases"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D012141",
+                    "label": "Respiratory Tract Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D000820",
+                    "label": "Animal Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D005585",
+                            "label": "Influenza in Birds"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D020805",
+                    "label": "Central Nervous System Viral Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D000069544",
+                    "label": "Infectious Encephalitis",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D007239",
+                    "label": "Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003141",
+                            "label": "Communicable Diseases"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D004683",
+                    "label": "Encephalomyelitis, Equine",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D001102",
+                    "label": "Arbovirus Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D002493",
+                    "label": "Central Nervous System Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D004660",
+                    "label": "Encephalitis",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D020969",
+                    "label": "Disease Attributes",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003141",
+                            "label": "Communicable Diseases"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D004671",
+                    "label": "Encephalitis, Arbovirus",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                }
+            ]
+        },
+        {
+            "fingerprint": "20c9dbf",
+            "language": "en",
+            "id": "GfbTOICHH8Tc4RwmwpuDaLx0W6Uljk5MR9TH26jQNrQ=_18d6a82b810:a90172:caebd05b",
+            "originId": "https:\/\/www.ecdc.europa.eu\/en\/publications-data\/communicable-disease-threats-report-28-january-3-february-2024-week-5",
+            "origin": {
+                "htmlUrl": "https:\/\/www.ecdc.europa.eu\/en",
+                "streamId": "feed\/https:\/\/www.ecdc.europa.eu\/en\/taxonomy\/term\/2942\/feed",
+                "title": "COVID-19"
+            },
+            "title": "Communicable disease threats report, 28 January - 3 February 2024, week 5",
+            "author": "ECDC",
+            "crawled": 1706888968208,
+            "published": 1706888968208,
+            "alternate": [
+                {
+                    "type": "text\/html",
+                    "href": "https:\/\/www.ecdc.europa.eu\/en\/publications-data\/communicable-disease-threats-report-28-january-3-february-2024-week-5"
+                }
+            ],
+            "summary": {
+                "content": "This issue of the ECDC Communicable Disease Threats Report (CDTR) the period 28 January - 3 February 2024 and includes updates on SARS-CoV-2 variant classification, swine influenza, human cases of co-infection with seasonal influenza and avian influenza, influenza, western equine encephalitis, and an overview of respiratory virus epidemiology in the EU\/EEA.",
+                "direction": "ltr"
+            },
+            "visual": {
+                "processor": "feedly-nikon-v3.1",
+                "contentType": "image\/png",
+                "edgeCacheUrl": "https:\/\/lh3.googleusercontent.com\/MNg6BzhoEPRU8tfos7X1BLh-Fy2PqcahWymRVgro-L896CZkLDD17fkxtq1XAAJQ2UILGAtNm8gxogMB0XVA9HAzWoZyjWpS0H6bb98",
+                "url": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/styles\/is_large\/public\/images\/CDTR-generic-cover-2022.png?itok=eYAVbLdv",
+                "width": 1160,
+                "height": 703,
+                "expirationDate": 1709481170097
+            },
+            "canonicalUrl": "https:\/\/www.ecdc.europa.eu\/en\/publications-data\/communicable-disease-threats-report-28-january-3-february-2024-week-5",
+            "expansionFailureStatus": 4,
+            "unread": true,
+            "categories": [
+                {
+                    "id": "enterprise\/univndere\/category\/7a35c025-07d0-4043-935e-77cddfc405ab",
+                    "label": "COVID-19"
+                }
+            ],
+            "entities": [
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D003141",
+                    "label": "Communicable Diseases",
+                    "mentions": [
+                        {
+                            "text": "Communicable disease"
+                        },
+                        {
+                            "text": "Communicable Disease"
+                        }
+                    ],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D060085",
+                    "label": "Coinfection",
+                    "mentions": [
+                        {
+                            "text": "co infection"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                    "label": "Influenza, Human",
+                    "mentions": [
+                        {
+                            "text": "influenza"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D009976",
+                    "label": "Orthomyxoviridae Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                            "label": "Influenza, Human"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D005585",
+                            "label": "Influenza in Birds"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "text": "swine influenza"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D005585",
+                    "label": "Influenza in Birds",
+                    "mentions": [
+                        {
+                            "text": "avian influenza"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                    "label": "Severe Acute Respiratory Syndrome",
+                    "mentions": [
+                        {
+                            "text": "SARS"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                    "label": "Encephalomyelitis, Western Equine",
+                    "mentions": [
+                        {
+                            "text": "western equine encephalitis"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D000069544",
+                    "label": "Infectious Encephalitis",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D004683",
+                    "label": "Encephalomyelitis, Equine",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D004679",
+                    "label": "Encephalomyelitis",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D001715",
+                    "label": "Bird Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D005585",
+                            "label": "Influenza in Birds"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D001102",
+                    "label": "Arbovirus Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D003333",
+                    "label": "Coronaviridae Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D000079426",
+                    "label": "Vector Borne Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D009422",
+                    "label": "Nervous System Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D010335",
+                    "label": "Pathologic Processes",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003141",
+                            "label": "Communicable Diseases"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D001927",
+                    "label": "Brain Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D012140",
+                    "label": "Respiratory Tract Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                            "label": "Influenza, Human"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D000820",
+                    "label": "Animal Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D005585",
+                            "label": "Influenza in Birds"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D020805",
+                    "label": "Central Nervous System Viral Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D012141",
+                    "label": "Respiratory Tract Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                            "label": "Influenza, Human"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D030341",
+                    "label": "Nidovirales Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D018354",
+                    "label": "Alphavirus Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D002493",
+                    "label": "Central Nervous System Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D004660",
+                    "label": "Encephalitis",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D012327",
+                    "label": "RNA Virus Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                            "label": "Influenza, Human"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D009976",
+                            "label": "Orthomyxoviridae Infections"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D005585",
+                            "label": "Influenza in Birds"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D002494",
+                    "label": "Central Nervous System Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D007239",
+                    "label": "Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003141",
+                            "label": "Communicable Diseases"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                            "label": "Influenza, Human"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D060085",
+                            "label": "Coinfection"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D004671",
+                    "label": "Encephalitis, Arbovirus",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D014777",
+                    "label": "Virus Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                            "label": "Influenza, Human"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D009976",
+                            "label": "Orthomyxoviridae Infections"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D005585",
+                            "label": "Influenza in Birds"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D013568",
+                    "label": "Pathological Conditions, Signs and Symptoms",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003141",
+                            "label": "Communicable Diseases"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D020969",
+                    "label": "Disease Attributes",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003141",
+                            "label": "Communicable Diseases"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D018792",
+                    "label": "Encephalitis, Viral",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D014036",
+                    "label": "Togaviridae Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D020241",
+                            "label": "Encephalomyelitis, Western Equine"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D018352",
+                    "label": "Coronavirus Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                }
+            ],
+            "leoSummary": {
+                "sentences": []
+            }
+        },
+        {
+            "fingerprint": "c2f612d3",
+            "language": "en",
+            "id": "GfbTOICHH8Tc4RwmwpuDaLx0W6Uljk5MR9TH26jQNrQ=_18d68b2edc1:86d3f3:caebd05b",
+            "originId": "https:\/\/www.ecdc.europa.eu\/en\/publications-data\/covid-19-data-vaccination",
+            "origin": {
+                "htmlUrl": "https:\/\/www.ecdc.europa.eu\/en",
+                "streamId": "feed\/https:\/\/www.ecdc.europa.eu\/en\/taxonomy\/term\/2942\/feed",
+                "title": "COVID-19"
+            },
+            "title": "Data on COVID-19 vaccination in the EU\/EEA",
+            "author": "ECDC",
+            "crawled": 1706858573249,
+            "published": 1706858573249,
+            "alternate": [
+                {
+                    "type": "text\/html",
+                    "href": "https:\/\/www.ecdc.europa.eu\/en\/publications-data\/covid-19-data-vaccination"
+                }
+            ],
+            "summary": {
+                "content": "This downloadable data file contains information on COVID-19 vaccination in the EU\/EEA since September 2023.",
+                "direction": "ltr"
+            },
+            "visual": {
+                "processor": "feedly-nikon-v3.1",
+                "contentType": "image\/png",
+                "edgeCacheUrl": "https:\/\/lh3.googleusercontent.com\/A3qmGuojCcizzS551PePK5Jpl5JGzYxY804OMcXwxFVmElZLGvY7kAi-5qiLbkv8JL6d3_vWexZ0viUpZiZJbi_zi4k7m--BI07UIZ96",
+                "url": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/styles\/is_large\/public\/images\/vaccine-covid-2.png?itok=0YdGnJB-",
+                "width": 1160,
+                "height": 870,
+                "expirationDate": 1709450909985
+            },
+            "canonicalUrl": "https:\/\/www.ecdc.europa.eu\/en\/publications-data\/covid-19-data-vaccination",
+            "expansionFailureStatus": 4,
+            "unread": true,
+            "categories": [
+                {
+                    "id": "enterprise\/univndere\/category\/7a35c025-07d0-4043-935e-77cddfc405ab",
+                    "label": "COVID-19"
+                }
+            ],
+            "entities": [
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                    "label": "COVID-19",
+                    "mentions": [
+                        {
+                            "text": "COVID 19"
+                        }
+                    ],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "location",
+                    "id": "nlp\/f\/entity\/gz:loc:46",
+                    "label": "Europe",
+                    "mentions": [
+                        {
+                            "text": "EU"
+                        }
+                    ],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D012140",
+                    "label": "Respiratory Tract Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D012327",
+                    "label": "RNA Virus Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D018352",
+                    "label": "Coronavirus Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D007239",
+                    "label": "Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D011024",
+                    "label": "Pneumonia, Viral",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D012141",
+                    "label": "Respiratory Tract Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D008171",
+                    "label": "Lung Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D030341",
+                    "label": "Nidovirales Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D011014",
+                    "label": "Pneumonia",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D014777",
+                    "label": "Virus Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D003333",
+                    "label": "Coronaviridae Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                            "label": "COVID-19"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                }
+            ],
+            "leoSummary": {
+                "sentences": []
+            }
+        },
+        {
+            "fingerprint": "3d3c3dcc",
+            "language": "en",
+            "id": "GfbTOICHH8Tc4RwmwpuDaLx0W6Uljk5MR9TH26jQNrQ=_18d46a402c7:669ccf:33ffab25",
+            "originId": "https:\/\/www.ecdc.europa.eu\/en\/publications-data\/communicable-disease-threats-report-21-27-january-2024-week-4",
+            "origin": {
+                "title": "COVID-19",
+                "streamId": "feed\/https:\/\/www.ecdc.europa.eu\/en\/taxonomy\/term\/2942\/feed",
+                "htmlUrl": "https:\/\/www.ecdc.europa.eu\/en"
+            },
+            "title": "Communicable disease threats report, 21-27 January 2024, week 4",
+            "author": "ECDC",
+            "crawled": 1706287170247,
+            "published": 1706287170247,
+            "alternate": [
+                {
+                    "type": "text\/html",
+                    "href": "https:\/\/www.ecdc.europa.eu\/en\/publications-data\/communicable-disease-threats-report-21-27-january-2024-week-4"
+                }
+            ],
+            "summary": {
+                "content": "This issue of the ECDC Communicable Disease Threats Report (CDTR) the period 21-27 January 2024 and includes updates on SARS-CoV-2, influenza, cholera, chikungunya, dengue and zika.",
+                "direction": "ltr"
+            },
+            "visual": {
+                "processor": "feedly-nikon-v3.1",
+                "contentType": "image\/png",
+                "edgeCacheUrl": "https:\/\/lh3.googleusercontent.com\/52SCjOV5_Ditzr7CBShdgp5pz3_zb8CJgGDY1glKqybwn6TX_2-u8fIiaLRb6A8H736dyrRCN_nMyWO0mqG_kFS4ZkwlZSn3Jk1Rdq4",
+                "url": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/styles\/is_large\/public\/images\/CDTR-generic-cover-2022.png?itok=eYAVbLdv",
+                "width": 1160,
+                "height": 703,
+                "expirationDate": 1708879552473
+            },
+            "canonicalUrl": "https:\/\/www.ecdc.europa.eu\/en\/publications-data\/communicable-disease-threats-report-21-27-january-2024-week-4",
+            "expansionFailureStatus": 4,
+            "unread": true,
+            "categories": [
+                {
+                    "id": "enterprise\/univndere\/category\/7a35c025-07d0-4043-935e-77cddfc405ab",
+                    "label": "COVID-19"
+                }
+            ],
+            "entities": [
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D003141",
+                    "label": "Communicable Diseases",
+                    "mentions": [
+                        {
+                            "text": "Communicable disease"
+                        },
+                        {
+                            "text": "Communicable Disease"
+                        }
+                    ],
+                    "salienceLevel": "about"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D002771",
+                    "label": "Cholera",
+                    "mentions": [
+                        {
+                            "text": "cholera"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                    "label": "Influenza, Human",
+                    "mentions": [
+                        {
+                            "text": "influenza"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D003715",
+                    "label": "Dengue",
+                    "mentions": [
+                        {
+                            "text": "dengue"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                    "label": "Severe Acute Respiratory Syndrome",
+                    "mentions": [
+                        {
+                            "text": "SARS"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D013568",
+                    "label": "Pathological Conditions, Signs and Symptoms",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003141",
+                            "label": "Communicable Diseases"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D001423",
+                    "label": "Bacterial Infections and Mycoses",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D002771",
+                            "label": "Cholera"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D009976",
+                    "label": "Orthomyxoviridae Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                            "label": "Influenza, Human"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D001102",
+                    "label": "Arbovirus Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003715",
+                            "label": "Dengue"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D018177",
+                    "label": "Flavivirus Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003715",
+                            "label": "Dengue"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D003333",
+                    "label": "Coronaviridae Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D000079426",
+                    "label": "Vector Borne Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003715",
+                            "label": "Dengue"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D018352",
+                    "label": "Coronavirus Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D007239",
+                    "label": "Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003141",
+                            "label": "Communicable Diseases"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003715",
+                            "label": "Dengue"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D014777",
+                    "label": "Virus Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003715",
+                            "label": "Dengue"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                            "label": "Influenza, Human"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D012140",
+                    "label": "Respiratory Tract Diseases",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                            "label": "Influenza, Human"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D030341",
+                    "label": "Nidovirales Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D010335",
+                    "label": "Pathologic Processes",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003141",
+                            "label": "Communicable Diseases"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D012141",
+                    "label": "Respiratory Tract Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                            "label": "Influenza, Human"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D018178",
+                    "label": "Flaviviridae Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003715",
+                            "label": "Dengue"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D014735",
+                    "label": "Vibrio Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D002771",
+                            "label": "Cholera"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D012327",
+                    "label": "RNA Virus Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D045169",
+                            "label": "Severe Acute Respiratory Syndrome"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003715",
+                            "label": "Dengue"
+                        },
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D007251",
+                            "label": "Influenza, Human"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D016905",
+                    "label": "Gram-Negative Bacterial Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D002771",
+                            "label": "Cholera"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D006482",
+                    "label": "Hemorrhagic Fevers, Viral",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003715",
+                            "label": "Dengue"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D020969",
+                    "label": "Disease Attributes",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D003141",
+                            "label": "Communicable Diseases"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "about"
+                },
+                {
+                    "type": "disease",
+                    "disambiguated": true,
+                    "id": "nlp\/f\/entity\/gz:MeSH:D001424",
+                    "label": "Bacterial Infections",
+                    "causes": [
+                        {
+                            "id": "nlp\/f\/entity\/gz:MeSH:D002771",
+                            "label": "Cholera"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                }
+            ],
+            "leoSummary": {
+                "sentences": []
+            }
+        },
+        {
+            "language": "en",
+            "fingerprint": "de21e3d6",
+            "originId": "https:\/\/www.ecdc.europa.eu\/en\/news-events\/vaccination-coverage-eueea-during-autumn-2023-campaigns",
+            "recrawled": 1707308181427,
+            "updateCount": 1,
+            "id": "GfbTOICHH8Tc4RwmwpuDaLx0W6Uljk5MR9TH26jQNrQ=_18d44cc4b25:511011:caebd05b",
+            "origin": {
+                "htmlUrl": "https:\/\/www.ecdc.europa.eu\/en",
+                "title": "COVID-19",
+                "streamId": "feed\/https:\/\/www.ecdc.europa.eu\/en\/taxonomy\/term\/2942\/feed"
+            },
+            "published": 1706256255781,
+            "crawled": 1706256255781,
+            "author": "ECDC",
+            "title": "Vaccination coverage in the EU\/EEA during autumn 2023 campaigns",
+            "summary": {
+                "direction": "ltr",
+                "content": "Nearly 20 million people aged 60 years and above received COVID-19 vaccines during the autumn \/ winter campaign in the EU\/EEA"
+            },
+            "alternate": [
+                {
+                    "href": "https:\/\/www.ecdc.europa.eu\/en\/news-events\/vaccination-coverage-eueea-during-autumn-2023-campaigns",
+                    "type": "text\/html"
+                }
+            ],
+            "visual": {
+                "processor": "feedly-nikon-v3.1",
+                "contentType": "image\/jpeg",
+                "edgeCacheUrl": "https:\/\/lh3.googleusercontent.com\/t60LJnp4KkSmqUE96_Mb4GZ8VB4rE2x_LCqPdNzPAUq6NSd-6N31YLcIiMmbP2vJpIvVqt9YctFJIvaDM0FdniF4vaObHFD1fKKvfw",
+                "url": "https:\/\/www.ecdc.europa.eu\/sites\/default\/files\/styles\/is_large\/public\/images\/Vaccine-preventable-diseases_H.jpg?itok=uiDl1duL",
+                "width": 1160,
+                "height": 702,
+                "expirationDate": 1709918189154
+            },
+            "canonicalUrl": "https:\/\/www.ecdc.europa.eu\/en\/news-events\/vaccination-coverage-eueea-during-autumn-2023-campaigns",
+            "snippet": "\n<div><div><div><div><div><p>An estimated 19.4 million individuals aged 60 and above from the EU\/EEA received at least one dose of the COVID-19 vaccine between 1 September 2023 and 15 January 2024 according to a new report from the European Centre for Disease Prevention and Control (ECDC). \u00a0<\/p>\n<p>Interim COVID-19 vaccination cov...<\/p><\/div><\/div><\/div><\/div><\/div>",
+            "abstract": {
+                "text": "An estimated 19.4 million people aged 60 and over received at least one dose of the COVID-19 vaccine between 1 September 2023 and 15 January 2024. Out of the total number of those vaccinated during the mentioned period, 5.5 million people were aged 80 and over. Three countries reported vaccination coverage higher than 50% for the age group 60 years and older."
+            },
+            "fullContent": "\n<div><div><div><div><div><p>An estimated 19.4 million individuals aged 60 and above from the EU\/EEA received at least one dose of the COVID-19 vaccine between 1 September 2023 and 15 January 2024 according to a new report from the European Centre for Disease Prevention and Control (ECDC). \u00a0<\/p>\n<p>Interim COVID-19 vaccination coverage in the EU\/EEA during fall 2023 campaigns shows that out of the total number of those vaccinated during the mentioned period, 5.5 million people were aged 80 and above. \u00a0<\/p>\n<p>Among the 24 reporting countries, three countries reported vaccination coverage higher than 50% for the age group 60 years and older, while eight countries reported vaccination coverage higher than 50% for those 80 years and older.<\/p>\n<p>Since the initiation of COVID-19 vaccination campaigns in December 2020, ECDC has been collecting and presenting data on vaccine uptake in the EU\/EEA through an interactive online dashboard and open data files. \u00a0<\/p>\n<p>However, starting September 2023, in response to the evolving landscape of COVID-19 vaccination campaigns, ECDC has adjusted its data collection methods to provide a description of vaccine coverage in the EU\/EEA countries.<\/p>\n<p>This report presents the interim vaccination coverage data during the autumn\/winter season of 2023-24, focusing on doses administered to individuals targeted by vaccination programs, regardless of their previous immunisation status. Similar interim reports are planned to be issued quarterly. \u00a0<\/p>\n<p>Vaccination efforts should continue to focus on protecting people at risk of progression to severe disease, e.g. people aged over 60 years and other vulnerable individuals irrespective of age (such as people with underlying comorbidities or the immunocompromised) and pregnant women. \u00a0<\/p>\n<p>Additionally, healthcare workers should also be considered by public health authorities as a priority group for COVID-19 revaccination. \u00a0<\/p>\n<p>National authorities in the EU\/EEA make decisions on priority target populations and timing of vaccinations in their countries, based on factors such as the spread of infection, the impact of COVID-19 in different populations, and the emergence of new variants. \u00a0<\/p>\n<p>The report highlights the diverse vaccination landscapes across EU\/EEA countries, urging ongoing efforts to ensure comprehensive coverage in the target groups and address variations among different target groups.\u00a0<\/p>\n<\/div><\/div><\/div><\/div><\/div>",
+            "unread": true,
+            "categories": [
+                {
+                    "id": "enterprise\/univndere\/category\/7a35c025-07d0-4043-935e-77cddfc405ab",
+                    "label": "COVID-19"
+                }
+            ],
+            "commonTopics": [
+                {
+                    "type": "topic",
+                    "label": "Global Health",
+                    "score": 0.766,
+                    "id": "nlp\/f\/topic\/977",
+                    "salienceLevel": "about"
+                }
+            ],
+            "entities": [
+                {
+                    "disambiguated": true,
+                    "type": "location",
+                    "label": "Europe",
+                    "id": "nlp\/f\/entity\/gz:loc:46",
+                    "mentions": [
+                        {
+                            "text": "EU"
+                        },
+                        {
+                            "text": "European"
+                        }
+                    ],
+                    "salienceLevel": "about"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "label": "COVID-19",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D000086382",
+                    "mentions": [
+                        {
+                            "text": "COVID 19"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "label": "Infections",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D007239",
+                    "causes": [
+                        {
+                            "label": "COVID-19",
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "text": "infection"
+                        }
+                    ],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "label": "Respiratory Tract Infections",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D012141",
+                    "causes": [
+                        {
+                            "label": "COVID-19",
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "label": "RNA Virus Infections",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D012327",
+                    "causes": [
+                        {
+                            "label": "COVID-19",
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "label": "Coronaviridae Infections",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D003333",
+                    "causes": [
+                        {
+                            "label": "COVID-19",
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "label": "Virus Diseases",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D014777",
+                    "causes": [
+                        {
+                            "label": "COVID-19",
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "label": "Pneumonia, Viral",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D011024",
+                    "causes": [
+                        {
+                            "label": "COVID-19",
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "label": "Lung Diseases",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D008171",
+                    "causes": [
+                        {
+                            "label": "COVID-19",
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "label": "Pneumonia",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D011014",
+                    "causes": [
+                        {
+                            "label": "COVID-19",
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "label": "Coronavirus Infections",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D018352",
+                    "causes": [
+                        {
+                            "label": "COVID-19",
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "label": "Respiratory Tract Diseases",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D012140",
+                    "causes": [
+                        {
+                            "label": "COVID-19",
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                },
+                {
+                    "disambiguated": true,
+                    "type": "disease",
+                    "label": "Nidovirales Infections",
+                    "id": "nlp\/f\/entity\/gz:MeSH:D030341",
+                    "causes": [
+                        {
+                            "label": "COVID-19",
+                            "id": "nlp\/f\/entity\/gz:MeSH:D000086382"
+                        }
+                    ],
+                    "mentions": [],
+                    "salienceLevel": "mention"
+                }
+            ],
+            "leoSummary": {
+                "sentences": [
+                    {
+                        "text": "An estimated 19.4 million individuals aged 60 and above from the EU\/EEA received at least one dose of the COVID-19 vaccine between 1 September 2023 and 15 January 2024 according to a new report from the European Centre for Disease Prevention and Control (ECDC)."
+                    },
+                    {
+                        "text": "However, starting September 2023, in response to the evolving landscape of COVID-19 vaccination campaigns, ECDC has adjusted its data collection methods to provide a description of vaccine coverage in the EU\/EEA countries."
+                    }
+                ]
+            },
+            "engagement": 1
+        }
+    ]
+}
