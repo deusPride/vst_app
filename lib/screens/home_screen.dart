@@ -8,6 +8,7 @@ import '../widgets/image_container.dart';
 class HomeScreen extends StatelessWidget {
   const HomeScreen({Key? key}) : super(key: key);
   static const routeName = '/';
+
   @override
   Widget build(BuildContext context) {
     Article article = Article.articles[0];
@@ -49,14 +50,14 @@ class _BreakingNews extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
               Text(
-                'Breaking News',
+                'Les plus consultés',
                 style: Theme.of(context)
                     .textTheme
                     .headlineSmall!
                     .copyWith(fontWeight: FontWeight.bold),
               ),
               Text(
-                'More',
+                'Voir plus',
                 style: Theme.of(context).textTheme.bodyLarge!,
               )
             ],
@@ -94,7 +95,7 @@ class _BreakingNews extends StatelessWidget {
                                         fontWeight: FontWeight.bold,
                                         height: 1.5)),
                             Text(
-                                '${DateTime.now().difference(articles[index].createdAt).inHours} hours Ago',
+                                'il y\'a ${DateTime.now().difference(articles[index].createdAt).inDays} jours',
                                 maxLines: 2,
                                 style: Theme.of(context).textTheme.bodySmall)
                           ]),

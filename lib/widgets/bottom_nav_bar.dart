@@ -19,14 +19,14 @@ class BottomNavBar extends StatelessWidget {
                   {Navigator.pushNamed(context, HomeScreen.routeName)},
               icon: const Icon(Icons.home),
             ),
-            label: 'Home'),
+            label: 'Accueil'),
         BottomNavigationBarItem(
             icon: IconButton(
               onPressed: () =>
                   {Navigator.pushNamed(context, DiscoverScreen.routeName)},
               icon: const Icon(Icons.search),
             ),
-            label: 'Search'),
+            label: 'Découvrir'),
         BottomNavigationBarItem(
             icon: IconButton(
               onPressed: () => {print('No profile screen yet')},

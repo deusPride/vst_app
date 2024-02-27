@@ -35,22 +35,56 @@ class ArticleScreen extends StatelessWidget {
                   color: Colors.white,
                 ),
                 child: Column(children: [
-                  CustomTag(backgroundColor: Colors.black, children: [
-                    CircleAvatar(
-                      radius: 15,
-                      backgroundImage: NetworkImage(article.authorImageUrl),
+                  Expanded(
+                    child: Row(
+                      children: [
+                        CustomTag(backgroundColor: Colors.black, children: [
+                          CircleAvatar(
+                            radius: 15,
+                            backgroundImage:
+                                NetworkImage(article.authorImageUrl),
+                          ),
+                          const SizedBox(
+                            width: 10,
+                          ),
+                          Text(
+                            article.author,
+                            style: Theme.of(context)
+                                .textTheme
+                                .bodyMedium!
+                                .copyWith(color: Colors.white),
+                          ),
+                        ]),
+                        const SizedBox(
+                          width: 15,
+                        ),
+                        CustomTag(backgroundColor: Colors.white, children: [
+                          Icon(Icons.timer),
+                          const SizedBox(
+                            width: 10,
+                          ),
+                          Text(
+                              'il y\'a ${DateTime.now().difference(article.createdAt).inDays} jours',
+                              style: Theme.of(context).textTheme.bodyMedium),
+                        ]),
+                        const SizedBox(
+                          width: 25,
+                        ),
+                        const Icon(Icons.visibility),
+                        const SizedBox(
+                          width: 5,
+                        ),
+                        Text('${article.views} views')
+                      ],
                     ),
-                    const SizedBox(
-                      width: 10,
-                    ),
-                    Text(
-                      article.author,
-                      style: Theme.of(context)
-                          .textTheme
-                          .bodyMedium!
-                          .copyWith(color: Colors.white),
-                    )
-                  ])
+                  ),
+                  const SizedBox(
+                    height: 25,
+                  ),
+                  Text(
+                    article.body,
+                    style: Theme.of(context).textTheme.headlineMedium,
+                  )
                 ]),
               )
             ],
@@ -103,15 +137,8 @@ class _NewsHeadline extends StatelessWidget {
                 .copyWith(color: Colors.white, fontWeight: FontWeight.bold),
           ),
           const SizedBox(
-            height: 50,
+            height: 20,
           ),
-          Text(
-            article.body,
-            style: Theme.of(context)
-                .textTheme
-                .headlineMedium!
-                .copyWith(color: Colors.white, fontWeight: FontWeight.normal),
-          )
         ],
       ),
     );

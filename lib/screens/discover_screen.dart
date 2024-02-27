@@ -148,7 +148,7 @@ class _DiscoverNews extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           Text(
-            'Discover',
+            'Découverte',
             style: Theme.of(context)
                 .textTheme
                 .displayMedium!
