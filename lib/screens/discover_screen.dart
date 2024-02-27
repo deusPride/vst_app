@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
+import 'package:vst_app/screens/article_screen.dart';
 import 'package:vst_app/widgets/image_container.dart';
 
 import '../models/article_models.dart';
@@ -73,27 +74,56 @@ class _CategoryNews extends StatelessWidget {
                         shrinkWrap: true,
                         itemCount: articles.length,
                         itemBuilder: (context, index) {
-                          return Row(
-                            children: [
-                              ImageContainer(
-                                width: 80,
-                                height: 80,
-                                imageUrl: articles[index].imageUrl,
-                                borderRadius: 5,
-                                margin: const EdgeInsets.all(10.0),
-                              ),
-                              Column(
-                                crossAxisAlignment: CrossAxisAlignment.start,
-                                mainAxisAlignment: MainAxisAlignment.center,
-                                children: [
-                                  Text(
-                                    articles[index].title,
-                                    maxLines: 2,
-                                    overflow: TextOverflow.clip,
-                                  ),
-                                ],
-                              ),
-                            ],
+                          return InkWell(
+                            onTap: () {
+                              Navigator.pushNamed(
+                                  context, ArticleScreen.routeName,
+                                  arguments: articles[index]);
+                            },
+                            child: Row(
+                              children: [
+                                ImageContainer(
+                                  width: 80,
+                                  height: 80,
+                                  imageUrl: articles[index].imageUrl,
+                                  borderRadius: 5,
+                                  margin: const EdgeInsets.all(10.0),
+                                ),
+                                Column(
+                                  crossAxisAlignment: CrossAxisAlignment.start,
+                                  mainAxisAlignment: MainAxisAlignment.center,
+                                  children: [
+                                    Text(
+                                      articles[index].title,
+                                      maxLines: 2,
+                                      overflow: TextOverflow.clip,
+                                    ),
+                                    const SizedBox(height: 10),
+                                    Row(
+                                      children: [
+                                        const Icon(
+                                          Icons.schedule,
+                                          size: 18,
+                                        ),
+                                        const SizedBox(
+                                          height: 5,
+                                        ),
+                                        Text(
+                                            '${DateTime.now().difference(articles[index].createdAt).inHours} hours ago'),
+                                        const SizedBox(
+                                          width: 25,
+                                        ),
+                                        const Icon(Icons.visibility),
+                                        const SizedBox(
+                                          width: 5,
+                                        ),
+                                        Text('${articles[index].views} views')
+                                      ],
+                                    )
+                                  ],
+                                ),
+                              ],
+                            ),
                           );
                         },
                       ))
